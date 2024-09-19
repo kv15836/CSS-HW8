@@ -1,0 +1,24 @@
+.box{
+    display: flex;
+    gap: 10px;
+}
+.first{
+    border: 1px solid red;
+    height: 200pxs;
+    width: 150px;
+}
+.second{
+    border: 1px solid purple;
+    height: 50px;
+    width: 70px;
+}
+.third{
+    border: 1px solid purple;
+    height: 80px;
+    width: 50px;
+}
+.fourth{
+    border: 1px solid brown;
+    height: 60px;
+    width: 60px;
+}
