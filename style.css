@@ -36,7 +36,7 @@ body{
                          'Janette Patrick Patrick Kira'; 
 
     & > .item-1{
-        background-color: rgb(red, rgb(60, 0, 128), blue);
+        background-color: rgb(60, 0, 128);
         grid-area:Daniel;
         border-radius:10px;
         
@@ -50,7 +50,7 @@ body{
     }
 
     & > .item-2{
-        background-color: rgb(220,174,150);
+        background-color: rgb(65, 29, 9);
         grid-area:Jonathan;
         border-radius:10px;
         color: rgba(255,255,255);
@@ -78,13 +78,13 @@ body{
         }
     }
     & > .item-4{
-        background-color: rosybrown;
+        background-color: rgb(212, 98, 11);
         grid-area:Janette;
         border-radius:10px;
         color:#fff;
 
         .feedback{
-            color: rgba(255,255,255,0.6);
+            color: rgba(212, 69, 69, 0.6);
             font-size: 0.813rem;
             line-height: 1.25rem;
             font-weight: 600;
